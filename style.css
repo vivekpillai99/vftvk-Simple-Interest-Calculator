@@ -1,24 +1,40 @@
+/*Vivek Pillai, IBM Course, Simple Interest Calculator*/
 body {
     background-color:black; 
     font-family:arial; 
     color:white;
 }
+.highlight{
+    background-color: yellow;
+}
 .maindiv{
+    display: inline-block;
+    text-align:left;
     background-color:white; 
     width:400px; 
-    padding:40px; 
+    padding:40px;
+    padding-top: 10px; 
     color:black;
     border-radius: 25px;
-    text-align: center; 
-    align:center;
+    align: center;
     margin: 5px;
+    height: auto;
+}
+/*This is for the text in the center of the calculator, makes sure everything lines up neatly*/
+.textdiv{
+    border-radius: 10px;
+    margin-left: 70px;
 }
 h1{
     color:grey; 
     font: verdana;
+    font-weight: 700;
 }
-footer{
-    align:left
+.footer-mod{
+    text-align: left;
+    margin:auto;
+    margin-top: -30px;
+    margin-bottom: -20px;   
 }
 
 
