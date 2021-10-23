@@ -1,6 +1,22 @@
-body {background-color:black; font-family:arial; color:white;}
-.maindiv{background-color:white; width:300px; padding:20px; color:black;
-border-radius: 25px; align:center;}
-h1{color:grey; font: verdana;}
+body {
+    background-color:black; 
+    font-family:arial; 
+    color:white;
+}
+.maindiv{
+    background-color:white; 
+    width:400px; 
+    padding:20px; 
+    color:black;
+    border-radius: 25px; 
+    align:center;
+}
+h1{
+    color:grey; 
+    font: verdana;
+}
+footer{
+    align:left
+}
 
 
