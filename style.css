@@ -6,10 +6,12 @@ body {
 .maindiv{
     background-color:white; 
     width:400px; 
-    padding:20px; 
+    padding:40px; 
     color:black;
-    border-radius: 25px; 
+    border-radius: 25px;
+    text-align: center; 
     align:center;
+    margin: 5px;
 }
 h1{
     color:grey; 
